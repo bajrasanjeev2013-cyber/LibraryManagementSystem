@@ -16,7 +16,7 @@ namespace LibraryManagementSystem
             this.title = title;
             this.author = author;
             this.isbn = isbn;
-            this.isAvailable = true;
+            
         }
 
         public string BookId
