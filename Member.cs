@@ -7,7 +7,7 @@ namespace LibraryManagementSystem
     {
         private string memberId;
         private string name;
-        private string email;
+       
 
         private List<Book> currentLoans;
 
